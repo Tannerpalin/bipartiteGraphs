@@ -1,0 +1,205 @@
+Person 1 was born into family 2 and married into family 1.
+Person 4 was born into family 5 and married into family 1.
+Family 1 has huband 1, wife 4 and Children 7 8.
+Person 2 was born into family 3 and married into family 2.
+Person 3 was born into family 4 and married into family 2.
+Family 2 has huband 2, wife 3 and Children 13 14 1 15.
+Family 3 has huband 9, wife 10 and Children 2 16.
+Family 4 has huband 11, wife 12 and Children 3 17.
+Person 7 was born into family 1 and married into family 0.
+Person 8 was born into family 1 and married into family 0.
+Family 2 points to Child 13 but there is no backpointer.
+Family 2 points to Child 14 but there is no backpointer.
+Family 2 points to Child 15 but there is no backpointer.
+Family 3 points to Child 16 but there is no backpointer.
+Family 3 points to wife 10 but there is no backpointer.
+Family 3 points to husband 9 but there is no backpointer.
+Family 4 points to Child 17 but there is no backpointer.
+Family 4 points to wife 12 but there is no backpointer.
+Family 4 points to husband 11 but there is no backpointer.
+Person 13 was born into family 2 and married into family 6.
+Person 14 was born into family 2 and married into family 0.
+Family 5 has huband 5, wife 6 and Children 4 19 20.
+Person 19 was born into family 5 and married into family 7.
+Person 20 was born into family 5 and married into family 8.
+Person 21 was born into family 7 and married into family 0.
+Person 22 was born into family 7 and married into family 0.
+Person 16 was born into family 3 and married into family 9.
+Person 17 was born into family 4 and married into family 10.
+Person 5 was born into family 11 and married into family 5.
+Person 6 was born into family 12 and married into family 5.
+Person 9 was born into family 13 and married into family 3.
+Family 6 has huband 13, wife 18 and no Children.
+Person 10 was born into family 14 and married into family 3.
+Person 11 was born into family 15 and married into family 4.
+Person 12 was born into family 16 and married into family 4.
+Person 18 was born into family 0 and married into family 6.
+Person 25 was born into family 0 and married into family 8.
+Person 26 was born into family 0 and married into family 9.
+Person 27 was born into family 0 and married into family 10.
+Person 23 was born into family 7 and married into family 0.
+Person 24 was born into family 0 and married into family 7.
+Family 7 has huband 19, wife 24 and Children 21 22 23.
+Family 8 has huband 25, wife 20 and Children 28.
+Family 9 has huband 16, wife 26 and Children 30 31.
+Family 10 has huband 27, wife 17 and Children 33 32.
+Person 28 was born into family 8 and married into family 0.
+Person 31 was born into family 9 and married into family 0.
+Person 32 was born into family 10 and married into family 0.
+Person 33 was born into family 10 and married into family 71.
+Person 29 was born into family 0 and married into family 17.
+Person 34 was born into family 17 and married into family 0.
+Person 35 was born into family 17 and married into family 0.
+Person 36 was born into family 17 and married into family 0.
+Person 37 was born into family 0 and married into family 0.
+Person 39 was born into family 19 and married into family 14.
+Person 40 was born into family 20 and married into family 14.
+Person 41 was born into family 21 and married into family 0.
+Person 42 was born into family 14 and married into family 21.
+Family 14 has huband 40, wife 39 and Children 10 42.
+Person 43 was born into family 0 and married into family 21.
+Person 44 was born into family 21 and married into family 22.
+Person 45 was born into family 22 and married into family 23.
+Person 46 was born into family 0 and married into family 23.
+Person 47 was born into family 23 and married into family 0.
+Family 23 has huband 46, wife 45 and Children 47.
+Person 48 was born into family 22 and married into family 0.
+Person 49 was born into family 22 and married into family 24.
+Person 50 was born into family 0 and married into family 24.
+Family 24 has huband 50, wife 49 and no Children.
+Family 22 has huband 44, wife 51 and Children 45 48 49.
+Person 51 was born into family 0 and married into family 22.
+Family 21 has huband 43, wife 42 and Children 44 41.
+Person 52 was born into family 20 and married into family 0.
+Person 53 was born into family 20 and married into family 0.
+Family 20 has huband 54, wife 0 and Children 40 52 53.
+Person 54 was born into family 0 and married into family 20.
+Person 55 was born into family 19 and married into family 26.
+Person 56 was born into family 0 and married into family 26.
+Person 57 was born into family 0 and married into family 27.
+Family 27 has huband 57, wife 55 and no Children.
+Person 58 was born into family 26 and married into family 28.
+Person 59 was born into family 0 and married into family 0.
+Person 60 was born into family 28 and married into family 29.
+Person 61 was born into family 0 and married into family 29.
+Person 62 was born into family 29 and married into family 0.
+Family 29 has huband 61, wife 60 and Children 62.
+Person 63 was born into family 28 and married into family 30.
+Person 64 was born into family 0 and married into family 30.
+Person 65 was born into family 30 and married into family 0.
+Family 30 has huband 63, wife 64 and Children 65.
+Person 66 was born into family 28 and married into family 31.
+Person 67 was born into family 0 and married into family 31.
+Person 68 was born into family 31 and married into family 0.
+Person 69 was born into family 31 and married into family 0.
+Family 31 has huband 67, wife 66 and Children 69 68.
+Person 70 was born into family 28 and married into family 32.
+Person 71 was born into family 0 and married into family 32.
+Person 72 was born into family 32 and married into family 0.
+Person 73 was born into family 32 and married into family 0.
+Family 32 has huband 70, wife 71 and Children 72 73.
+Family 28 has huband 59, wife 58 and Children 60 63 66 70.
+Person 74 was born into family 26 and married into family 33.
+Person 75 was born into family 0 and married into family 33.
+Person 76 was born into family 33 and married into family 0.
+Family 33 has huband 75, wife 74 and Children 76.
+Person 78 was born into family 34 and married into family 35.
+Person 79 was born into family 0 and married into family 35.
+Person 80 was born into family 35 and married into family 0.
+Family 35 has huband 78, wife 79 and Children 80.
+Family 36 has huband 78, wife 0 and no Children.
+Family 34 has huband 0, wife 77 and Children 78.
+Person 81 was born into family 26 and married into family 0.
+Family 26 has huband 56, wife 55 and Children 58 74 77 81.
+Person 82 was born into family 19 and married into family 37.
+Person 83 was born into family 0 and married into family 37.
+Person 84 was born into family 37 and married into family 38.
+Person 85 was born into family 0 and married into family 38.
+Person 87 was born into family 38 and married into family 0.
+Person 88 was born into family 38 and married into family 40.
+Person 89 was born into family 0 and married into family 40.
+Person 90 was born into family 40 and married into family 41.
+Person 91 was born into family 0 and married into family 41.
+Person 92 was born into family 41 and married into family 0.
+Family 41 has huband 91, wife 90 and Children 92.
+Person 93 was born into family 40 and married into family 0.
+Person 94 was born into family 40 and married into family 0.
+Family 40 has huband 88, wife 89 and Children 90 94 93.
+Person 95 was born into family 38 and married into family 42.
+Family 43 has huband 0, wife 0 and no Children.
+Family 42 has huband 95, wife 0 and no Children.
+Family 44 has huband 0, wife 0 and no Children.
+Family 45 has huband 0, wife 0 and no Children.
+Family 46 has huband 0, wife 0 and no Children.
+Family 47 has huband 0, wife 0 and no Children.
+Family 48 has huband 0, wife 0 and no Children.
+Family 49 has huband 0, wife 0 and no Children.
+Family 50 has huband 0, wife 0 and no Children.
+Family 38 has huband 84, wife 85 and Children 88 87 95.
+Family 52 has huband 0, wife 0 and no Children.
+Family 51 has huband 0, wife 0 and no Children.
+Family 53 has huband 0, wife 0 and no Children.
+Family 54 has huband 0, wife 0 and no Children.
+Family 56 has huband 0, wife 0 and no Children.
+Family 57 has huband 0, wife 0 and no Children.
+Family 58 has huband 0, wife 0 and no Children.
+Family 55 has huband 0, wife 0 and no Children.
+Family 61 has huband 0, wife 0 and no Children.
+Family 59 has huband 0, wife 0 and no Children.
+Family 60 has huband 0, wife 0 and no Children.
+Family 63 has huband 0, wife 0 and no Children.
+Family 64 has huband 0, wife 0 and no Children.
+Family 65 has huband 0, wife 0 and no Children.
+Family 66 has huband 0, wife 0 and no Children.
+Family 67 has huband 0, wife 0 and no Children.
+Family 62 has huband 0, wife 0 and no Children.
+Family 69 has huband 0, wife 0 and no Children.
+Family 68 has huband 0, wife 0 and no Children.
+Family 70 has huband 0, wife 0 and no Children.
+Family 37 has huband 83, wife 82 and Children 84.
+Family 19 has huband 0, wife 0 and Children 82 55 39.
+Family 71 has huband 33, wife 0 and no Children.
+Family 72 has huband 0, wife 0 and no Children.
+Family 75 has huband 0, wife 0 and no Children.
+Family 76 has huband 0, wife 0 and no Children.
+Family 73 has huband 0, wife 0 and no Children.
+Family 79 has huband 0, wife 0 and no Children.
+Family 80 has huband 0, wife 0 and no Children.
+Family 81 has huband 0, wife 0 and no Children.
+Family 77 has huband 0, wife 0 and no Children.
+Family 83 has huband 0, wife 0 and no Children.
+Family 78 has huband 0, wife 0 and no Children.
+Family 84 has huband 0, wife 0 and no Children.
+Family 85 has huband 0, wife 0 and no Children.
+Family 82 has huband 0, wife 0 and no Children.
+Family 74 has huband 0, wife 0 and no Children.
+Family 86 has huband 0, wife 0 and no Children.
+Family 91 has huband 0, wife 0 and no Children.
+Family 90 has huband 0, wife 0 and no Children.
+Family 89 has huband 0, wife 0 and no Children.
+Family 92 has huband 0, wife 0 and no Children.
+Family 95 has huband 0, wife 0 and no Children.
+Family 94 has huband 0, wife 0 and no Children.
+Family 93 has huband 0, wife 0 and no Children.
+Family 87 has huband 0, wife 0 and no Children.
+Family 88 has huband 0, wife 0 and no Children.
+Family 13 has huband 0, wife 0 and Children 9.
+Family 17 has huband 30, wife 29 and Children 34 35 36.
+Family 18 has huband 0, wife 31 and Children 38.
+Person 38 was born into family 18 and married into family 0.
+Family 15 has huband 0, wife 0 and Children 11.
+Family 16 has huband 0, wife 0 and Children 12.
+Family 25 has huband 0, wife 0 and no Children.
+Family 11 has huband 0, wife 0 and Children 5.
+Family 12 has huband 0, wife 0 and Children 6.
+Person 15 was born into family 2 and married into family 0.
+Person 86 was born into family 0 and married into family 0.
+Family 39 has huband 0, wife 0 and no Children.
+Person 30 was born into family 9 and married into family 17.
+Person 77 was born into family 26 and married into family 34.
+Family 18 points to wife 31 but there is no backpointer.
+Family 27 points to wife 55 but there is no backpointer.
+Family 28 points to husband 59 but there is no backpointer.
+Family 36 points to husband 78 but there is no backpointer.
+Person 1 -> Family 2 -> Person 2 -> Family 3 -> Person 10 -> Family 14 -> Person 39 -> Family 19 -> Person 55
+Person 95 -> Family 38 -> Person 84 -> Family 37 -> Person 82 -> Family 19 -> Person 39 -> Family 14 -> Person 10 -> Family 3 -> Person 2
